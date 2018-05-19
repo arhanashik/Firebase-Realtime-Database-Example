@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">FCM RealTimeDB Example</string>
+    <string name="action_settings">Settings</string>
+
+    <array name="fields">
+        <item>--Select Development Field--</item>
+        <item>Android</item>
+        <item>Web</item>
+        <item>Desktop</item>
+        <item>Server Side</item>
+    </array>
+    <string name="title_activity_details">Details</string>
+</resources>

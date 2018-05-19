@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1030050494847",
+    "firebase_url": "https://fcmrealtimedbexample.firebaseio.com",
+    "project_id": "fcmrealtimedbexample",
+    "storage_bucket": "fcmrealtimedbexample.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1030050494847:android:cd53b73a0d356d5c",
+        "android_client_info": {
+          "package_name": "com.blackspider.fcmrealtimedbexample"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1030050494847-ecm8hqgmkv82d20e2j82fu7eh33bue4g.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.blackspider.fcmrealtimedbexample",
+            "certificate_hash": "cb9e6a6293f51e639b0d335640cece14e89a4570"
+          }
+        },
+        {
+          "client_id": "1030050494847-t2pvc2pm5u2u157dd41eu416j4hrabrd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHF-xm_XLSe6kGAoTRY29MFDMFADxvhaw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1030050494847-t2pvc2pm5u2u157dd41eu416j4hrabrd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
